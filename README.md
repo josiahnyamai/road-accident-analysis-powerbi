@@ -36,6 +36,12 @@ The primary dataset used for this analysis is the 'Road Accident Analysis - Powe
 
 EDA involved answering this questions:-
 
+1. The monthly trend of the accidents happening
+2. Total number of casulties, number of vehicles involved and accident severity(fatal,slightly or seriousness)
+3. Casualties by road type and calculate number of casualties depending with each type of vehicle.
+4. Casualties by road surfaces
+5. Casulaties by light conditions(Day or night) and also Weather condtions
+
 ### Findings
 
 1. Single Carriage road types are experiencing high number of accidents
