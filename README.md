@@ -1,5 +1,14 @@
 # Road Accident Analysis
 
+## Table Of Content
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Findings](#findings)
+
 ### Project Overview
 
 The project aims to analyze road accident data to identify patterns, trends, and factors contributing to accidents. This analysis is then visualized through an interactive dashboard using Power BI, providing stakeholders with actionable insights to improve road safety measures.
