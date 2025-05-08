@@ -1,51 +1,55 @@
-# Road Accident Analysis
+# 🚧 Road Accident Analysis Dashboard (Power BI)
 
-## Table Of Content
+This Power BI project provides an insightful and interactive dashboard for analyzing road accident data. The dashboard helps stakeholders understand accident trends, identify high-risk zones, and support data-driven decisions for public safety improvements.
 
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Tools Used](#tools-used)
-- [Data Cleaning](#data-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Findings](#findings)
+![Screenshot 2025-05-08 203402](https://github.com/user-attachments/assets/6fddcae0-aa83-43ae-9a7d-47d0d2cf49aa)
 
-### Project Overview
+## 📊 Features
 
-The project aims to analyze road accident data to identify patterns, trends, and factors contributing to accidents. This analysis is then visualized through an interactive dashboard using Power BI, providing stakeholders with actionable insights to improve road safety measures.
+- Visual exploration of accident data across time and location
+- Breakdown of accidents by:
+  - Cause and severity
+  - Time of day, day of week, and month
+  - Region, city, or specific roads/intersections
+- Interactive map visualization (if included)
+- KPIs such as:
+  - Total number of accidents
+  - Number of fatalities and injuries
+  - Peak accident times and zones
 
-![Road Accident Analysis](https://github.com/Josiah-TechBro/Road-Accident-Analysis/assets/143694858/990bd433-d318-4d66-9ef0-5cd630b97b83)
+## 🛠 Tools & Technologies
 
+- **Power BI Desktop**
+- Data cleaning and transformation using Power Query
+- DAX for calculated columns and measures
 
-### Data Sources
+## 📂 Project Files
 
-The primary dataset used for this analysis is the 'Road Accident Analysis - Power BI dataset.xlsx' file, containing detailed information about each sale made by the company.
+- `Road Accident Data - Power BI Project.pbix`: Contains all the visuals, data transformations, and metrics used in the analysis.
 
-### Tools Used
+## 🧩 Usage
 
-- Excel - Data Cleaning [Download Here](https://microsoft.com)
-- Power BI - Creating dashboard/Reports
+1. Open the `.pbix` file in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Explore the interactive visualizations to uncover insights into accident trends.
+3. Filter by date, location, or severity to perform deep-dive analysis.
+4. Replace the data source with your own accident dataset to adapt the dashboard.
 
-### Data Cleaning
+## ✅ Ideal For
 
-1. Data loading and Inspection
-2. Handling missing values
-3. Removing duplicates
-4. Formatting
+- Traffic safety analysts
+- Public transportation planners
+- Government agencies
+- Power BI learners and data visualization enthusiasts
 
-### Exploratory Data Analysis
+## 📌 Notes
 
-EDA involved answering this questions:-
+- The dataset used in this project is anonymized or synthetic.
+- No confidential or personally identifiable information is included.
 
-1. The monthly trend of the accidents happening
-2. Total number of casulties, number of vehicles involved and accident severity(fatal,slightly or seriousness)
-3. Casualties by road type and calculate number of casualties depending with each type of vehicle.
-4. Casualties by road surfaces
-5. Casulaties by light conditions(Day or night) and also Weather condtions
+## 📬 Contact
 
-### Findings
+For suggestions or collaboration, feel free to open an issue or reach out via [GitHub profile link].
 
-1. Single Carriage road types are experiencing high number of accidents
-2. The accidents for the two years has lead to death of over 418,000 people and 563,000 vehicles.
-3. Many accidents occur during the Day.
-4. The type of vehicle causing many accidents is Cars.
-5. Many accidents have occured in the urban areas compared to rural areas. 
+---
+
+> Built to help save lives through better insights. 🧠📈
